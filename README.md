@@ -11,7 +11,7 @@
 <a href="mailto:gunackd@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-70A5FD?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/gunackd"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Gunackd"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=Gunackd&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Gunackd&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -43,15 +43,14 @@ const guna = {
 
   currentlyLearning: [
     "Advanced React.js",
-    "JavaScript",
-    "REST API Integration",
-    "TypeScript"
+    "TypeScript",
+    "REST API Integration"
   ],
 
   interests: [
-    "Web Development",
-    "Building Responsive Applications",
-    "Learning New Technologies"
+    "Front-End Development",
+    "Responsive Web Applications",
+    "Problem Solving"
   ],
 
   motto: "Build. Learn. Improve. Repeat."
@@ -69,6 +68,7 @@ const guna = {
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
 
 **Frameworks & Libraries**
@@ -112,22 +112,24 @@ const guna = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Gunackd&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Gunackd&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunackd&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+<a href="https://github.com/Gunackd?tab=repositories">
+<img src="https://img.shields.io/badge/View-All%20Repositories-70A5FD?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+</a>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gunackd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+<a href="https://github.com/Gunackd?tab=overview&from=2026-01-01&to=2026-12-31">
+<img src="https://img.shields.io/badge/View-GitHub%20Contributions-38BDAE?style=for-the-badge&logo=github&logoColor=white" alt="View Contributions"/>
+</a>
 
 </div>
 
 ## 💼 Work Experience
 
 <details open>
-<summary><b>Mturn Tourism Company — Graphic Designer & Video Editor</b> | Sep 2025 – Apr 2026</summary>
+<summary><b>🎬 Mturn Tourism Company — Graphic Designer & Video Editor</b> | Sep 2025 – Apr 2026</summary>
 
 **Tools:** Adobe Photoshop · Adobe Illustrator · Adobe InDesign · CapCut
 
@@ -145,17 +147,17 @@ const guna = {
 | Project | Technologies | Description |
 |:---|:---|:---|
 | [**Infinity Visions**](https://github.com/Gunackd/infinity-visions) | React.js, JavaScript, CSS | Creative agency website featuring service sections, portfolio filtering and interactive UI elements. |
-| [**Hall Booking System**](https://github.com/Gunackd/Hall_Booking_System) | HTML, CSS, PHP, MySQL | Online seminar hall reservation system with authentication, booking management and admin controls. |
+| [**Hall Booking System**](https://github.com/Gunackd/Hall_Booking_System) | JavaScript | Online seminar hall reservation project. |
 | [**Tasklist Manager**](https://github.com/Gunackd/tasklist-manager) | TypeScript | Web-based task management application. |
 
 </div>
 
 ## 🏆 Highlights
 
-- 🎓 Completed MSc Computer Science with CGPA 7.73.
-- 🎓 Completed BSc Computer Science with CGPA 7.50.
+- 🎓 MSc Computer Science graduate with CGPA 7.73.
+- 🎓 BSc Computer Science graduate with CGPA 7.50.
 - 💼 Professional experience in graphic design and video editing.
-- 🚀 Developed projects using React.js, JavaScript, PHP and MySQL.
+- 🚀 Developed projects using React.js, JavaScript and other web technologies.
 - 💻 Actively practicing React.js and building web development projects.
 
 ## 🎓 Education
@@ -164,8 +166,8 @@ const guna = {
 
 | Degree | Institution | Year | Score |
 |:---|:---|:---:|:---:|
-| MSc Computer Science | Mannar Thirumalai Naicker College | 2024–2026 | 7.73 CGPA |
-| BSc Computer Science | Mannar Thirumalai Naicker College | 2021–2024 | 7.50 CGPA |
+| MSc Computer Science | Mannar Thirumalai Naicker College | 2024–2026 | CGPA 7.73 |
+| BSc Computer Science | Mannar Thirumalai Naicker College | 2021–2024 | CGPA 7.50 |
 | Higher Secondary (12th) | Government Higher Secondary School, Ayyankottai | 2020–2021 | 80.0% |
 | Secondary (10th) | St. Joseph's High School, Samayanallur | 2018–2019 | 76.4% |
 
